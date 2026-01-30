@@ -1,0 +1,11 @@
+[package]
+name = "safehide-api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-web = "4.12.1"
+chrono = "0.4.43"
+futures-util = "0.3.31"
+mongodb = "3.5.0"
+serde = "1.0.228"
