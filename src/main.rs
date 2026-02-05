@@ -1,5 +1,6 @@
 mod types;
 mod models;
+mod handles;
 
 use actix_web::{get, App, HttpResponse, HttpServer, Responder};
 
